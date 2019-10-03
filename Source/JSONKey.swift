@@ -24,6 +24,9 @@
 
 // MARK: - JSONKey
 
+import Foundation
+import CoreGraphics
+
 private enum KeyType {
     case string(Swift.String)
     case int(Swift.Int)

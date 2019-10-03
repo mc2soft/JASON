@@ -24,6 +24,8 @@
 
 // MARK: - StringLiteralConvertible
 
+import Foundation
+
 /// Conforming types can be initialized with arbitrary string literals.
 extension JSON: ExpressibleByStringLiteral {
     /**

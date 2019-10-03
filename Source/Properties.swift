@@ -24,6 +24,9 @@
 
 // MARK: - JSON
 
+import Foundation
+import CoreGraphics
+
 extension JSON {
     /// The value as JSON
     public var json: JSON { return self }

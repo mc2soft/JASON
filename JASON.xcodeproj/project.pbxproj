@@ -109,6 +109,7 @@
 		6DE485501C98C9AE00D0EBD8 /* LiteralConvertible.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LiteralConvertible.swift; sourceTree = "<group>"; };
 		6DE485551C98CA0A00D0EBD8 /* JSONKey.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JSONKey.swift; sourceTree = "<group>"; };
 		6DE4855A1C98E00B00D0EBD8 /* SequenceType.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SequenceType.swift; sourceTree = "<group>"; };
+		AA16C10D234613C6000A9535 /* Package.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Package.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -170,6 +171,7 @@
 		6D05C7D91B3EA79A0050416C = {
 			isa = PBXGroup;
 			children = (
+				AA16C10D234613C6000A9535 /* Package.swift */,
 				6D05C7E41B3EA79A0050416C /* Products */,
 				6D05C7E51B3EA79A0050416C /* Source */,
 				6D05C7F21B3EA79A0050416C /* Tests */,

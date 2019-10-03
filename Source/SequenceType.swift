@@ -22,6 +22,8 @@
 // SOFTWARE.
 //
 
+import Foundation
+
 /// Conforming types gain access to reduce, map, filter et al.
 extension JSON: Sequence {
     /**
